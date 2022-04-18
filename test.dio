@@ -1,0 +1,41 @@
+<mxfile host="65bd71144e">
+    <diagram id="T6j49jaMuKVHuLuDW_TC" name="ページ1">
+        <mxGraphModel dx="664" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="8" value="Table" style="swimlane;startSize=40;fontSize=20;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="400" width="160" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;font style=&quot;font-size: 21px&quot;&gt;Row 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="8">
+                    <mxGeometry x="10" y="60" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Row 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="8">
+                    <mxGeometry x="15" y="100" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Row 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="8">
+                    <mxGeometry x="15" y="140" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=none;html=1;fontSize=21;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="360" y="560" as="sourcePoint"/>
+                        <mxPoint x="560" y="560" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="Table" style="swimlane;fontSize=20;startSize=40;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="400" width="160" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;font style=&quot;font-size: 21px&quot;&gt;Row 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="9">
+                    <mxGeometry x="5" y="60" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Row 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="9">
+                    <mxGeometry x="10" y="100" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Row 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="9">
+                    <mxGeometry x="10" y="140" width="70" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
